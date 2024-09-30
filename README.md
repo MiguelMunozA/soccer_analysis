@@ -1,2 +1,6 @@
-# soccer_analysis
-Análisis de tendencia de goles de señecciones de fútbol.
+# Análisis de fútbol
+
+## Acerca del Proyecto
+
+##### Este proyecto contiene información de los goles de los principales equipos de fútbol de Reino Unido, Italia y España. Esto es la Premier League, Serie A y la Liga, respectivamente. Verá las tendencias en los puntajes para los últimos cinco años y podrá comparar la tres ligas.
+

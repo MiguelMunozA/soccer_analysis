@@ -1,2 +1,2 @@
 # soccer_analysis
-Análisis de tendencia de goles
+Análisis de tendencia de goles de señecciones de fútbol.
